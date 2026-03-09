@@ -1,6 +1,6 @@
 # Formal Verification of Axiom-Free Gödelian Ontological Argument and Trinity Necessity Proof in Isabelle/HOL
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18919344.svg)](https://doi.org/10.5281/zenodo.18919345)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18919345.svg)](https://doi.org/10.5281/zenodo.18919345)
 
 ## 📌 Overview
 This project reconstructs metaphysical arguments (the Ontological Argument and the structure of the Trinity) into the domain of computational formalization and machine verification. Utilizing **Isabelle/HOL** (a Higher-Order Logic theorem prover), it translates philosophical claims into precise, mechanically verifiable logical theories.
@@ -39,5 +39,6 @@ All theorems in this project have been checked by the Isabelle/HOL kernel. To re
 Navigate to the project directory in your terminal and run the following command to build the proof session:
 ```bash
 isabelle build -D .
+
 
 
