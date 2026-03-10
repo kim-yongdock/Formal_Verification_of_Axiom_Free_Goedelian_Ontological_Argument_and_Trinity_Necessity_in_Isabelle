@@ -7,5 +7,3 @@ session Trinity_necessity_Proof = HOL +
   document_files (in "document")
     "root.tex"
     "root.bib"
-    "axiom_audit_all.tex"
-    "locale_audit_all.tex"
